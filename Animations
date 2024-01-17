@@ -1,0 +1,4 @@
+You can add animations to the predict button in the last block of Code
+st.balloons()
+st.snow()
+
